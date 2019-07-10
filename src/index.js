@@ -11,13 +11,7 @@ const firebase = require("firebase");
 require("firebase/firestore");
 
 firebase.initializeApp({
-    apiKey: "AIzaSyBFbeWz3m_62vSG_GPGvT12RAX-n5ZOXBA",
-    authDomain: "chat-945.firebaseapp.com",
-    databaseURL: "https://chat-945.firebaseio.com",
-    projectId: "chat-945",
-    storageBucket: "chat-945.appspot.com",
-    messagingSenderId: "631809300422",
-    appId: "1:631809300422:web:a8bc63df961ab4a6"
+    
  
 })
 
